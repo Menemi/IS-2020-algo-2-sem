@@ -38,7 +38,7 @@ IS-2020-algo-2-sem
 
 ### Lab12
 
-#### [Задания](https://github.com/1Menemi1/IS-2020-algo-2-sem/blob/main/Lab12/problems12.pdf)
+#### [Задания](https://github.com/1Menemi1/IS-2020-algo-2-sem/blob/main/Lab12/problems12n.pdf)
 * [A - Наибольшая возрастающая подпоследовательность](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/A)
 * [B - Наибольшая возрастающая подпоследовательность](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/B)
 * [D - Ход конём - 2](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/D)
