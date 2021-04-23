@@ -44,3 +44,4 @@ IS-2020-algo-2-sem
 * [D - Ход конём - 2](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/D)
 * [E - Выбор вершин дерева](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/E)
 * [F - Дерево (сумма)](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/F)
+* [G - Рюкзак](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/G)
