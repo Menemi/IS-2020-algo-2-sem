@@ -45,3 +45,8 @@ IS-2020-algo-2-sem
 * [E - Выбор вершин дерева](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/E)
 * [F - Дерево (сумма)](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/F)
 * [G - Рюкзак](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab12/G)
+
+### Lab13
+
+#### [Задания](https://github.com/1Menemi1/IS-2020-algo-2-sem/blob/main/Lab13/problems13.pdf)
+* [A - Наивный поиск подстроки в строке](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab13/A)
