@@ -52,3 +52,4 @@ IS-2020-algo-2-sem
 * [A - Наивный поиск подстроки в строке](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab13/A)
 * [A, но тут 2 строки кода - Наивный поиск подстроки в строке](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab13/A-KEKW)
 * [B - Быстрый поиск подстроки в строке](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab13/B)
+* [C - Префикс-функция](https://github.com/1Menemi1/IS-2020-algo-2-sem/tree/main/Lab13/C)
