@@ -11,7 +11,7 @@ int main() {
     string s;
     fin >> s;
 
-    int n = (int) s.length();
+    int n = s.length();
     vector<int> prefixFunction(n);
     for (int i = 1; i < n; ++i) {
         int value = prefixFunction[i - 1];
